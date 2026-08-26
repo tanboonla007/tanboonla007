@@ -1,61 +1,65 @@
 <div align="center">
 
-<img src="./assets/mirai.gif" width="380" alt="Mirai GIF">
+# ✦ TANBOON LAOPHATTAKASEM ✦
 
-# Hello everyone, My name is Tan Tanboon 👋
+<a href="https://tanboonla007.github.io">
+  <img src="https://img.shields.io/badge/🌐_Personal_Website-tanboonla007.github.io-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://github.com/tanboonla007">
+  <img src="https://img.shields.io/badge/🐙_GitHub_Profile-tanboonla007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-🎓 **นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 2 | มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน (ขอนแก่น)**
+<br/><br/>
 
-*“I love computers so much (bah~)”*
+<img src="./assets/mirai.gif" width="420" alt="Mirai GIF" style="border-radius: 10px;">
 
-🌐 **[Visit My Website](https://tanboonla007.github.io)**
+<br/><br/>
 
----
+🎓 **Computer Engineering Student (Year 2)**  
+*Rajamangala University of Technology Isan, Khon Kaen Campus*
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+> *“I love computers so much (bah~)”*
 
 ---
 
-### 🌱 กำลังเรียนรู้
+### 💻 Tech Stack & Tools
 
-- พื้นฐานอินเทอร์เน็ตและบริการออนไลน์
-- Frontend & Backend Development
-- การพัฒนา Web & Mobile Application
+**Frontend & Mobile**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0E2D?style=flat-square&logo=daisyui&logoColor=white)
 
-### 🎯 สนใจไปทางไหน
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-- การพัฒนาระบบหน้าบ้านและหลังบ้าน (Full-stack)
-- เครือข่ายคอมพิวเตอร์และระบบโครงสร้างพื้นฐาน
-- การพัฒนาเว็บแอปพลิเคชัน
-
-### 📌 ผลงาน
-
-ยังอยู่ในช่วงเริ่มต้น กำลังสะสมโปรเจกต์ทีละชิ้น สามารถติดตามผลงานและเว็บไซต์ส่วนตัวได้ทางลิงก์ด้านบนครับ 🚀
+**Tools & Environment**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
+| 🌱 Current Focus | 🎯 Key Interests | 📌 Portfolio |
+| :--- | :--- | :--- |
+| • Internet & Network Services<br/>• Frontend & Backend Development<br/>• Web & Mobile Applications | • Full-Stack Development<br/>• Network & Infrastructure<br/>• Web Technology | • อยู่ในช่วงกำลังสร้างสรรค์และสะสมผลงาน<br/>• ติดตามโปรเจกต์ต่างๆ ได้ทางเว็บไซต์ |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanboonla007&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" alt="Tanboon's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanboonla007&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21" alt="Top Langs" width="48%" />
-</p>
+---
+
+### 📊 GitHub Activity
 
 <br/>
 
-📫 **ช่องทางการติดต่อ:** [GitHub Profile](https://github.com/tanboonla007)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanboonla007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Tanboon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanboonla007&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+</p>
+
+---
+
+📫 **Get in touch:** Contact via [GitHub Profile](https://github.com/tanboonla007)
 
 </div>
