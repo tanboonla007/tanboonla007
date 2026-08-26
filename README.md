@@ -60,6 +60,10 @@
 
 ---
 
+<!-- Pacman Eating Dots Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F7DF1E&width=435&lines=ᗧ+++•+++•+++•+++•+++•" alt="Pacman Animation" />
+
 📫 **Get in touch:** Contact via [GitHub Profile](https://github.com/tanboonla007)
+
 
 </div>
