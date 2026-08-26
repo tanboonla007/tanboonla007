@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ TANBOON LAOPHATTAKASEM ✦
+# ✦ TAN TANBOON ✦
 
 <a href="https://tanboonla007.github.io">
   <img src="https://img.shields.io/badge/🌐_Personal_Website-tanboonla007.github.io-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
